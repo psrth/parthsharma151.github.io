@@ -2258,7 +2258,7 @@ a,a:active,a:hover,a:visited {
 
 .animsition-overlay,body,html {
     min-height: 100%!important;
-    height: 100%
+    height: 180%
 }
 
 .my-wrapper {
@@ -2271,7 +2271,7 @@ a,a:active,a:hover,a:visited {
 }
 
 .o-scroll {
-    overflow-y: scroll
+    overflow-y: auto;
 }
 
 .int-scroll {
