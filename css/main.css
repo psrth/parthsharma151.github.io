@@ -2259,7 +2259,13 @@ a,a:active,a:hover,a:visited {
 
 .animsition-overlay,body,html {
     min-height: 100%!important;
-    height: 180%
+    height: 200%
+}
+
+@media screen and (max-width: 770px) {
+  .animsition-overlay,body,html {
+      height: 100%
+  }
 }
 
 .my-wrapper {
