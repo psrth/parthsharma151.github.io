@@ -2270,7 +2270,7 @@ a,a:active,a:hover,a:visited {
 
 .my-wrapper {
     min-height: 100%!important;
-    height: 100%!important;
+    /* height: 100%!important; */
     width: 100%;
     position: relative;
     background-color: #fff!important;
